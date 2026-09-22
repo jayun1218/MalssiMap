@@ -28,3 +28,11 @@ out/
 
 # Documents
 *.docx
+
+# Machine Learning Data & Models
+backend/data/raw/*
+backend/data/processed/*
+backend/models/*.pkl
+!backend/data/raw/.gitkeep
+!backend/data/processed/.gitkeep
+!backend/models/.gitkeep
