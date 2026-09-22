@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+torch
+torchaudio
+transformers
+openai-whisper
+librosa
+scikit-learn
+sqlalchemy
